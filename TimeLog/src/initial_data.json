@@ -44,7 +44,7 @@
     {
       "idEmploye": 1,
       "nomUtilisateur": "employé1",
-      "motDePasse": "password1",       
+      "motDePasse": "password1",
       "tauxHoraireBase": 20,
       "tauxHoraireSupplementaire": 30,
       "dateEmbauche": "2022-07-04",
@@ -71,7 +71,7 @@
     {
       "idEmploye": 2,
       "nomUtilisateur": "employé2",
-      "motDePasse": "password2",       
+      "motDePasse": "password2",
       "tauxHoraireBase": 18,
       "tauxHoraireSupplementaire": 25,
       "dateEmbauche": "2022-07-04",
@@ -98,7 +98,7 @@
     {
       "idEmploye": 3,
       "nomUtilisateur": "employé3",
-      "motDePasse": "password3",       
+      "motDePasse": "password3",
       "tauxHoraireBase": 22,
       "tauxHoraireSupplementaire": 35,
       "dateEmbauche": "2022-07-04",
@@ -126,7 +126,7 @@
   "admins": [
     {
       "nomUtilisateur": "admin",
-      "motDePasse": "admin"         
+      "motDePasse": "admin"
     }
   ]
 }

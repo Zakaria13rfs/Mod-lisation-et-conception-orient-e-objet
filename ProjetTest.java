@@ -2,20 +2,20 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Projet {
+public class ProjetTest {
     private int projetID;
     private String name;
     private Date startDate;
     private Date endDate;
     private Map<String, Double> budgetedHoursByDiscipline; // Discipline -> Budgeted Hours
 
-    public Project(int projectID, String name, Date startDate, Date endDate) {
+    /*public Project(int projectID, String name, Date startDate, Date endDate) {
         this.projectID = projectID;
         this.name = name;
         this.startDate = startDate;
         this.endDate = endDate;
         this.budgetedHoursByDiscipline = new HashMap<>();
-    }
+    }*/
 
     // Getters and Setters for projectID, name, startDate, and endDate
 
